@@ -1,7 +1,7 @@
 Geniobites submission
 Recipe Book created with react using themealsdb api for data
 
-Authorization is done by using Auth0
+Authorization is done by using Auth0.
 After loging in user can check the recipies by clicking on them.
 User can search for a particular recipe using the searcg option.
 User can add recipies to favourites section.
